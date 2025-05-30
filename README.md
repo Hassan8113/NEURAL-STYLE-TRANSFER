@@ -79,3 +79,7 @@ Use the following command to install dependencies:
 
 ```bash
 pip install torch torchvision pillow matplotlib
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0571c621-e48b-48a4-859f-46b43015dc59)
